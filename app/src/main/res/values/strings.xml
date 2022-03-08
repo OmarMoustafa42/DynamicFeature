@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DynamicFeature</string>
+    <string name="on_demand">On Demand</string>
+    <string name="on_install">On Install</string>
+    <string name="title_oninstall">On Install</string>
+    <string name="title_ondemand">On Demand</string>
+    <string name="downloading">DOWNLOADING</string>
+    <string name="installed">INSTALLED</string>
+    <string name="cancelling">CANCELLING</string>
+    <string name="unclicked">No Activity</string>
+    <string name="pending">PENDING</string>
+    <string name="installing">INSTALLING</string>
+    <string name="downloaded">DOWNLOADED</string>
+    <string name="failed">FAILED</string>
+</resources>
