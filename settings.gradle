@@ -2,3 +2,4 @@ rootProject.name = "DynamicFeature"
 include ':app'
 include ':OnInstall'
 include ':OnDemand'
+
