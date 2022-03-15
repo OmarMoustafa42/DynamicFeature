@@ -5,6 +5,7 @@ plugins {
     // Added Libraries
 //    id 'com.android.application'
 //    id 'kotlin-android-extensions'
+    id 'kotlin-android-extensions'
 //    id 'com.chaquo.python'
 //    id 'com.chaquo.python'
 
