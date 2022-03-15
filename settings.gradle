@@ -1,3 +1,9 @@
+pluginManagement {
+    repositories {
+        maven { url "https://chaquo.com/maven" }
+    }
+}
+
 rootProject.name = "DynamicFeature"
 include ':app'
 include ':OnInstall'

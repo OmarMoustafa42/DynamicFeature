@@ -6,6 +6,8 @@ plugins {
 //    id 'com.android.application'
 //    id 'kotlin-android-extensions'
 //    id 'com.chaquo.python'
+//    id 'com.chaquo.python'
+
 }
 
 android {
@@ -28,15 +30,10 @@ android {
 //
 //        python {
 //            buildPython "C:/path/to/python.exe"
-//            buildPython "C:/path/to/py.exe", "-3.8"
-//
-//            pip {
-//                install "torch"
-//                install "torchvision"
-//                install "opencv-contrib-python-headless"
-//            }
+//            buildPython "C:/path/to/py.exe", "-3.9"
 //        }
     }
+
     // Chaquopy
 //    sourceSets {
 //        main {
