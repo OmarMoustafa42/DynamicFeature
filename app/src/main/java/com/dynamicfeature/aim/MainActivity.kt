@@ -1,4 +1,4 @@
-package com.example.dynamicfeature
+package com.dynamicfeature.aim
 
 import android.content.Intent
 import android.os.Bundle
@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
         val btnOnDemand = findViewById<Button>(R.id.on_demand)
 
         btnOnInstall.setOnClickListener {
-            val intent = Intent().setClassName(BuildConfig.APPLICATION_ID, "com.example.oninstall.MainActivity")
+            val intent = Intent().setClassName(BuildConfig.APPLICATION_ID, "com.dynamicfeature.oninstall.MainActivity")
             startActivity(intent)
         }
 
@@ -69,7 +69,7 @@ class MainActivity : AppCompatActivity() {
                         }
                         SplitInstallSessionStatus.INSTALLED -> {
                             // Module installed successfully
-                            val intent = Intent().setClassName(BuildConfig.APPLICATION_ID, "com.example.ondemand.MainActivity")
+                            val intent = Intent().setClassName(BuildConfig.APPLICATION_ID, "com.dynamicfeature.ondemand.MainActivity")
                             Log.i(tag, "INSTALLED")
                             startActivity(intent)
                         }

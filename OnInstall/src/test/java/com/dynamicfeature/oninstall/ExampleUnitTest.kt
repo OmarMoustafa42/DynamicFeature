@@ -1,4 +1,4 @@
-package com.example.oninstall
+package com.dynamicfeature.oninstall
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.example.ondemand
+package com.dynamicfeature.aim
 
 import org.junit.Test
 

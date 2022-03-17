@@ -1,4 +1,4 @@
-package com.example.ondemand
+package com.dynamicfeature.ondemand
 
 import android.bluetooth.le.ScanResult
 import android.view.LayoutInflater

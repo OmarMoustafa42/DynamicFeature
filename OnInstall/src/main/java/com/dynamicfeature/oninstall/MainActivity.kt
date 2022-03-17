@@ -1,4 +1,4 @@
-package com.example.oninstall
+package com.dynamicfeature.oninstall
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

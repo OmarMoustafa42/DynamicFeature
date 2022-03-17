@@ -1,4 +1,4 @@
-package com.example.ondemand;
+package com.dynamicfeature.ondemand;
 
 import android.util.Log;
 
